@@ -1,5 +1,7 @@
 ### Running the app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvilSpark/Full-stack-react-voting-app.svg)](https://greenkeeper.io/)
+
 1. Ensure you have `npm` installed.
 
 Follow the instructions for your platform [here](https://github.com/npm/npm).
